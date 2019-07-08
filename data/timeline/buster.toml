@@ -1,61 +1,54 @@
-[[1976-05-28]]
-event = "🐣 I enter the world."
+[[1983-11-16]]
+event = "Born!"
 category = "self"
 tags = ["me"]
-desc = "1976 was the year of the Dragon, Play That Funky Music and Rocky were top of the charts, and Gerald Ford was president. I'm a gemini, which of course doesn't mean anything. My mom collected bicentennial quarters to commemorate my birth year, since it was also the 200th birthday of America."
+desc = "I was born in New Haven, Connecticut at Yale Medical Center weighing only 2lbs. My was on a return flight from England in her 3rd trimester (oops!) and had to emergency land for my birth. I was nearly a mile high baby."
 
-[[1978-10-29]]
-event = "My sister, Kristy, is born."
-category = "family"
-tags = ["kristy"]
+[[1984-1-16]]
+event = "Supposed-to-be born date"
+category = "self"
+tags = ["me"]
 
-[[1982-08-25]]
-event = "I start at Glenmeade Elementary."
-category = "school"
-
-[[1984-08-01]]
-event = "We move to Irvine."
+[[1986-08-01]]
+event = "Move to Cupertino"
 category = "family"
 
-[[1984-09-02]]
-event = "I transfer to Stonecreek Elementary for 3rd grade."
+[[1987-08-25]]
+event = "Start at Collins Elementary"
 category = "school"
+desc = "I flunked kindergarten because I talked too much. Experienced some early developmental issues, possibly due to my premature birth"
 
-[[1988-09-10]]
-event = "I start 7th grade at Lakeside Middle."
-category = "school"
+[[1993-01-01]]
+event = "Move to Saratoga"
+category = "family"
 
-[[1990-09-02]]
-event = "I start at Woodbridge High School."
-category = "school"
-
-[[1993-10-30]]
-event = "💔 My father passes away."
+[[1995-07-02]]
+event = "Dad passes 💔"
 category = "family"
 tags = ["dad"]
 
-[[1994-05-15]]
-event = "I graduate from Woodbridge High School."
+[[1996-09-10]]
+event = "Start at Kennedy Jr High"
 category = "school"
 
-[[1994-08-07]]
-event = "🚚 I move to Berkeley, California."
+[[1998-09-10]]
+event = "Start at Monta Vista High"
+category = "school"
+
+[[2002-06-01]]
+event = "Graduate from Monta Vista High"
+category = "school"
+
+[[2002-08-01]]
+event = "Move to La Jolla, CA 🚚"
 category = "self"
 
-[[1995-08-01]]
-event = "🚚 I move to Seattle, Washington."
-category = "self"
-
-[[1994-08-19]]
-event = "First day of college at UC Berkeley."
+[[2002-09-01]]
+event = "First day of college at UC San Diego"
 category = "school"
 
-[[1995-09-25]]
-event = "First day at UW, starting the sophomore year."
-category = "school"
-
-[[1998-06-13]]
-event = "I graduate from UW with a degree in creative writing."
+[[2006-06-01]]
+event = "Graduate from UC San Diego w/ a BS in Behavioral Psychology"
 category = "school"
 
 [[1998-11-02]]
